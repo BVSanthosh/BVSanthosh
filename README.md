@@ -7,7 +7,7 @@ My interest in the field of Computer Science first sparked at a young age throug
 - Completed high school at Myanmar Internation School Yangon.
 - Graduated from the University of St Andrews.
 - Interested in Network Systems, Operating Systems, Machine Learning & Computer Architecture.
-- Currently working on a group project.
+- Currently working on a group project with Consansoft.
 - I'd love to work on open-soruce projects.
 - Contact email: basinavsanthosh@gmail.com
 
