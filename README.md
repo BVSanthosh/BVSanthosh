@@ -1,5 +1,6 @@
 # 💫 My Journey thus far
-in progress...
+
+One of my fondest memories growing up was coming home from school to mess around on my dad's CRT computer. I used to enjoy browsing the web and playing whatever game piqued my interest. The enjoyment from gaming turned into a fascination for computers and operating systems. I wanted to know everything about how they worked. My curiosity led me to choose Computer Science as one of my subjects in high school, from IGCSE through to A Levels. I still remember when I wrote my first line of code and the satisfaction I felt from being able to control the execution of computation. This was it. There and then, I saw a path paved forward to a career in software engineering. So since obtaining my Bachelor's in Computer Science from the University of St. Andrews, I've honed my skills in full-stack development. Currently, I'm specializing in Agentic AI Systems and Cloud Infrastructure. As these systems continue to improve, I will actively work at integrating this technology into society and ensuring it benefits everyone. 
 
 
 ---
