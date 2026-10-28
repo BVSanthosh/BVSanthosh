@@ -9,7 +9,7 @@ One of my fondest memories growing up was coming home from school to mess around
 
 - **[EduAgent](https://d37uqdfgqpjb08.cloudfront.net/)** — An agentic AI platform for document summarization, Q&A, and report drafting, built with LangGraph and LlamaIndex, deployed on AWS.
 📂 [Source code](https://github.com/BVSanthosh/Educational-Agentic-AI-Platform)
-- **Medicine Scanner App** - A mobile app UI for scanning and verifying that a store bought medicine is safe consumption, built using React Native and expo. 📂 [Source code](https://github.com/BVSanthosh/Medicine_Scanner_App)
+- **Medicine Scanner App** - A mobile app UI for scanning and verifying that a store bought medicine is safe consumption, built using React Native and FastAPI. 📂 [Source code](https://github.com/BVSanthosh/Medicine_Scanner_App)
 -  **ClimeProof Geospatial Pipeline** - An automated pipeline that extracts climate data from relevant sources to provide a hazard risk profile for healthcare facilities. 📂 [Source code](https://github.com/BVSanthosh/ClimeProof_Geospatial_Pipeline)
 
 ---
